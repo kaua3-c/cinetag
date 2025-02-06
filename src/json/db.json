@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Stardust Rhapsody Ep. 1 | Sci-Fi D&D Campaign | Overture",
+        "capa": "https://i.ytimg.com/vi/CJgLO5UCPNY/maxresdefault.jpg", 
+        "link": "https://www.youtube.com/watch?v=CJgLO5UCPNY"
+    },
+    {
+        "id": 2,
+        "titulo": "Uprooted Ep. 1 | Cat and Mouse | Funny D&D Mini Campaign",
+        "capa": "https://i.ytimg.com/vi/VaVlCoDHt88/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=VaVlCoDHt88&ab_channel=LegendsofAvantris"
+    },
+    {
+        "id": 3,
+        "titulo": "Twas the Night Before Witchlight - A Yuletide One-Shot | Holiday D&D",
+        "capa": "https://i.ytimg.com/vi/F_Lrt0iE3bM/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=F_Lrt0iE3bM&ab_channel=LegendsofAvantris"
+    },
+    {
+        "id": 4,
+        "titulo": "Once Upon a Witchlight Ep. 2 | Feywild D&D Campaign | Requiem for a Clown",
+        "capa": "https://i.ytimg.com/vi/7O8vmSeZUb8/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=7O8vmSeZUb8&ab_channel=LegendsofAvantris"
+    }
+]
